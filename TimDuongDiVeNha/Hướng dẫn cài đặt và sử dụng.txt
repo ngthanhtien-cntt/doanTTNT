@@ -1,0 +1,27 @@
+File code demo hiện đang được sử dụng trên visual stuidio 2022
+Mở trực tiếp trên visual studio  chọn" open folder " và chọn file demo cần thêm vào
+
+!!!!!!!!!!!!!!!!!!! 
+Nếu xảy ra lỗi The reference assemblies for .NETFramework,Version=v4.5.2 were not found". Lỗi này xuất hiện khi hệ thống không tìm thấy các bộ thư viện tham chiếu (.NET Framework reference assemblies) cho phiên bản .NET Framework 4.5.2.
+
+1. Vào trong TimDuongDiVeNha.csproj trong file demo TimDuongDiVeNha
+2. Tìm dòng có nội dung <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>.
+3. Thay đổi nội dung của dòng này thành một phiên bản .NET Framework mà bạn đã cài đặt sẵn trên máy tính (ví dụ: <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>).
+4. Lưu file và thử chạy lại dự án của bạn để xem lỗi đã được khắc phục hay chưa.
+
+!!!!!!!!!!!!!!!!!!!!!
+
+Build và chạy trực tiếp trên Form1.cs
+Tại đây sẽ hiện lên ứng dụng Tìm đường đi về nhà 
+
+Cách chơi :
+Bắt Đầu với việc chọn Điểm bắt đầu , và Điểm kết thúc để thêm vào vị trí bất kì trên bản đồ
+
+Sau đó chọn radio button " Thuật toán A* "
+Tiếp theo nếu muốn thêm địa hình và độ khó thì chọn trực tiếp vào nút "Thêm địa hình " , chọn radio button địa hình mà bạn muốn thêm , đặt ở bất kì vị trí nào bạn muốn
+
+Tiếp theo chọn "Bắt đầu tìm kiếm " 
+Cuối cùng chọn Chuyển động để  robot AI tự di chuyển đến đích đến. 
+Chọn " Làm mới " nếu muốn xóa hết tất cả mọi thứ trên bản đồ
+Chọn " xóa địa hình " nếu muốn dùng chuột xóa vị trí địa hình mong muốn
+Chọn " xóa tất cả địa hình " nếu muốn xóa toàn bộ địa hình có trên bản đồ

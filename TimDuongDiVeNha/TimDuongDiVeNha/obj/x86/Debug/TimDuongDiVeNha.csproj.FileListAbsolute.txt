@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\TimDuongDiVeNha\TimDuongDiVeNha\obj\x86\Debug\TimDuongDiVeNha.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TimDuongDiVeNha\TimDuongDiVeNha\obj\x86\Debug\TimDuongDiVeNha.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\TimDuongDiVeNha\TimDuongDiVeNha\obj\x86\Debug\TimDuongDiVeNha.Form1.resources
+C:\Users\user\Desktop\TimDuongDiVeNha\TimDuongDiVeNha\obj\x86\Debug\TimDuongDiVeNha.Form2.resources
+C:\Users\user\Desktop\TimDuongDiVeNha\TimDuongDiVeNha\obj\x86\Debug\TimDuongDiVeNha.Properties.Resources.resources
+C:\Users\user\Desktop\TimDuongDiVeNha\TimDuongDiVeNha\obj\x86\Debug\TimDuongDiVeNha.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TimDuongDiVeNha\TimDuongDiVeNha\obj\x86\Debug\TimDuongDiVeNha.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TimDuongDiVeNha\TimDuongDiVeNha\bin\Debug\TimDuongDiVeNha.exe.config
+C:\Users\user\Desktop\TimDuongDiVeNha\TimDuongDiVeNha\bin\Debug\TimDuongDiVeNha.exe
+C:\Users\user\Desktop\TimDuongDiVeNha\TimDuongDiVeNha\bin\Debug\TimDuongDiVeNha.pdb
+C:\Users\user\Desktop\TimDuongDiVeNha\TimDuongDiVeNha\obj\x86\Debug\TimDuongDiVeNha.exe
+C:\Users\user\Desktop\TimDuongDiVeNha\TimDuongDiVeNha\obj\x86\Debug\TimDuongDiVeNha.pdb
